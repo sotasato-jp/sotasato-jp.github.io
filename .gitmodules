@@ -1,0 +1,4 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/sotasato-jp/reveal.js.git
+	branch = self-introduction
